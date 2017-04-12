@@ -4,7 +4,7 @@
 @Email:  me@andreeray.se
 @Filename: README.md
 @Last modified by:   develdoe
-@Last modified time: 2017-04-11T14:16:50+02:00
+@Last modified time: 2017-04-12T15:06:51+02:00
 -->
 
 
@@ -27,10 +27,6 @@
 
     console.log('res:', res);
 ```
-
-## Tests
-
-npm test
 
 ## Contributing
 
