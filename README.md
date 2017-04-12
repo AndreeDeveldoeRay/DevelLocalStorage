@@ -4,14 +4,14 @@
 @Email:  me@andreeray.se
 @Filename: README.md
 @Last modified by:   develdoe
-@Last modified time: 2017-04-12T15:10:38+02:00
+@Last modified time: 2017-04-12T15:33:37+02:00
 -->
 
 
 
 =========
 
-    A small library providing an API for localStorage
+    A small npm library providing an API for storing arrays in localStorage 
 
 ## Installation
 
