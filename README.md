@@ -4,7 +4,7 @@
 @Email:  me@andreeray.se
 @Filename: README.md
 @Last modified by:   develdoe
-@Last modified time: 2017-04-12T15:06:51+02:00
+@Last modified time: 2017-04-12T15:08:55+02:00
 -->
 
 
@@ -31,8 +31,8 @@
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing coding style.
-Add unit tests for any new or changed functionality. Lint and test your code.
+Add unit tests for any new or changed functionality.
 
 ## Release History
 
-* 1.0 Initial release
+* 0.1.1 Initial release
