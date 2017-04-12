@@ -1,0 +1,22 @@
+{
+  "name": "devel-localstorage",
+  "version": "0.1.0",
+  "description": "A small library providing an API for localStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreeDeveldoeRay/DevelLocalStorage.git"
+  },
+  "keywords": [
+    "localstorage"
+  ],
+  "author": "Andree \"DevelDoe\" Ray <me@andreeray.se> (http://andreeray.se)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreeDeveldoeRay/DevelLocalStorage/issues"
+  },
+  "homepage": "https://github.com/AndreeDeveldoeRay/DevelLocalStorage#readme"
+}
