@@ -4,7 +4,7 @@
 @Email:  me@andreeray.se
 @Filename: README.md
 @Last modified by:   develdoe
-@Last modified time: 2017-04-12T15:08:55+02:00
+@Last modified time: 2017-04-12T15:10:38+02:00
 -->
 
 
@@ -35,4 +35,4 @@ Add unit tests for any new or changed functionality.
 
 ## Release History
 
-* 0.1.1 Initial release
+* 0.1.0 Initial release
