@@ -1,6 +1,6 @@
 {
   "name": "devel-localstorage",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A small library providing an API for localStorage",
   "main": "index.js",
   "scripts": {
