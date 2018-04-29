@@ -44,4 +44,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 * 0.5 Tests
 ---------------------
 * 1.0 release
-    1.1 * es2015 move
+    1.0.1 * es2015 move
