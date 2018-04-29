@@ -23,7 +23,7 @@
     import DevelLocalStorage from 'devel-localstorage'
 
     // set
-    var res = DevelLocalStorage.set('store',['devel','doe'])
+    DevelLocalStorage.set('store',['devel','doe'])
 
     // get
     var res = DevelLocalStorage.get('store')
