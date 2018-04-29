@@ -20,7 +20,7 @@
 ## Usage
 
 ```js
-    const { DevelLocalStorage } = require('devel-localstorage')
+    const { DevelLocalStorage } = require('devel-localstorage')()
 
     // set
     DevelLocalStorage.set('user',[{ user: "develdoe"}])
