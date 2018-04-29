@@ -33,11 +33,11 @@ export default {
          return Array.isArray(array) ? array : []
      }
      //
-    filter: function (store, query, callback) {
-        // TODO : filter function and use callback pattern
-        // if (response) callback(undefined, response.response)
-        // else callback('That command does not exist! To list basic commands execute <b>commands</b> (or <b>cmd</b>) in the cmd field below.')
-    }
+    // filter: function (store, query, callback) {
+    //     // TODO : filter function and use callback pattern
+    //     // if (response) callback(undefined, response.response)
+    //     // else callback('That command does not exist! To list basic commands execute <b>commands</b> (or <b>cmd</b>) in the cmd field below.')
+    // }
  }
 
  // filterTodos: function (todos, showCompleted, search) {
