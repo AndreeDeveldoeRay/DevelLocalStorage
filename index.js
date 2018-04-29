@@ -9,7 +9,7 @@
 
 
 
-export default localStorage {
+export default localStorage = {
      /**
       * Takes an array and transforms it to a string for localStorage
       * and stores is as 'store'
