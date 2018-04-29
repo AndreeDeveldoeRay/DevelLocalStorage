@@ -1,4 +1,4 @@
-exports.DevelLocalStorage = {
+exports.DevelLocalStorage = function() {
     /**
      * Takes an array and transforms it to a string for localStorage
      * and stores is as 'store'
