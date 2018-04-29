@@ -20,13 +20,13 @@
 ## Usage
 
 ```js
-    const { DevelLocalStorage } = require('devel-localstorage')()
+    import develLS from  'devel-localstorage'
 
     // set
-    DevelLocalStorage.set('user',[{ user: "develdoe"}])
+    develLS.set('user',[{ user: "develdoe"}])
 
     // get
-    var res = DevelLocalStorage.get('store')
+    var res = develLS.get('store')
 ```
 
 ## Contributing
