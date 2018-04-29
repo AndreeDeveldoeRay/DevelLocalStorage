@@ -9,7 +9,7 @@
 
 
 
-export default localStorage = {
+let localStorage = {
      /**
       * Takes an array and transforms it to a string for localStorage
       * and stores is as 'store'
@@ -39,7 +39,7 @@ export default localStorage = {
     //     // else callback('That command does not exist! To list basic commands execute <b>commands</b> (or <b>cmd</b>) in the cmd field below.')
     // }
  }
-
+export default localStorage
 
  // filterTodos: function (todos, showCompleted, search) {
  //
