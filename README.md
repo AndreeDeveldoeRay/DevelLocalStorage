@@ -20,13 +20,13 @@
 ## Usage
 
 ```js
-    import localStorage from 'devel-localstorage'
+    import DevelLocalStorage from 'devel-localstorage'
 
     // set
-    var res = localStorage.set('store',['devel','doe'])
+    var res = DevelLocalStorage.set('store',['devel','doe'])
 
     // get
-    var res = localStorage.get('store')
+    var res = DevelLocalStorage.get('store')
 ```
 
 ## Contributing
