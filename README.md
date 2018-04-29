@@ -23,10 +23,10 @@
     import localStorage from 'devel-localstorage'
 
     // set
-    var res = localstorage.set('store',['devel','doe'])
+    var res = localStorage.set('store',['devel','doe'])
 
     // get
-    var res = localstorage.get('store')
+    var res = localStorage.get('store')
 ```
 
 ## Contributing
