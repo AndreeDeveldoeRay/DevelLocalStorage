@@ -20,7 +20,7 @@
 ## Usage
 
 ```js
-    import localstorage from 'devel-localstorage'
+    import localStorage from 'devel-localstorage'
 
     // set
     var res = localstorage.set('store',['devel','doe'])
