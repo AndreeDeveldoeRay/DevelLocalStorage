@@ -9,7 +9,7 @@
 
 
 
- module.exports = {
+export default {
      /**
       * Takes an array and transforms it to a string for localStorage
       * and stores is as 'store'
