@@ -15,23 +15,18 @@
 
 ## Installation
 
-    npm install devel-localstorage --save
+    `npm install devel-localstorage --save`
 
 ## Usage
 
 ```js
-    var localstorage = require('devel-localstorage')
+    import localstorage from 'devel-localstorage'
 
     // set
-    // ===============================================
-    // on success the array get sent back
     var res = localstorage.set('store',['devel','doe'])
-    // ===============================================
 
     // get
-    // ===============================================
     var res = localstorage.get('store')
-    // ===============================================
 ```
 
 ## Contributing
@@ -49,3 +44,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 * 0.5 Tests
 ---------------------
 * 1.0 release
+    1.1 * es2015 move
